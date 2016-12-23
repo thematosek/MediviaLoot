@@ -1,0 +1,13 @@
+C:\Users\W520\documents\visual studio 2010\Projects\MediviaLoot\MediviaLoot\bin\Release\MediviaLoot.exe.manifest
+C:\Users\W520\documents\visual studio 2010\Projects\MediviaLoot\MediviaLoot\bin\Release\MediviaLoot.application
+C:\Users\W520\documents\visual studio 2010\Projects\MediviaLoot\MediviaLoot\bin\Release\MediviaLoot.exe
+C:\Users\W520\documents\visual studio 2010\Projects\MediviaLoot\MediviaLoot\bin\Release\MediviaLoot.pdb
+C:\Users\W520\documents\visual studio 2010\Projects\MediviaLoot\MediviaLoot\obj\x86\Release\MediviaLoot.Form1.resources
+C:\Users\W520\documents\visual studio 2010\Projects\MediviaLoot\MediviaLoot\obj\x86\Release\MediviaLoot.Form2.resources
+C:\Users\W520\documents\visual studio 2010\Projects\MediviaLoot\MediviaLoot\obj\x86\Release\MediviaLoot.Properties.Resources.resources
+C:\Users\W520\documents\visual studio 2010\Projects\MediviaLoot\MediviaLoot\obj\x86\Release\MediviaLoot.Resource1.resources
+C:\Users\W520\documents\visual studio 2010\Projects\MediviaLoot\MediviaLoot\obj\x86\Release\MediviaLoot.csproj.GenerateResource.Cache
+C:\Users\W520\documents\visual studio 2010\Projects\MediviaLoot\MediviaLoot\obj\x86\Release\MediviaLoot.exe.manifest
+C:\Users\W520\documents\visual studio 2010\Projects\MediviaLoot\MediviaLoot\obj\x86\Release\MediviaLoot.application
+C:\Users\W520\documents\visual studio 2010\Projects\MediviaLoot\MediviaLoot\obj\x86\Release\MediviaLoot.exe
+C:\Users\W520\documents\visual studio 2010\Projects\MediviaLoot\MediviaLoot\obj\x86\Release\MediviaLoot.pdb

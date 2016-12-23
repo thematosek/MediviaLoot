@@ -1,0 +1,24 @@
+C:\Users\W520\AppData\Local\Temporary Projects\MediviaLoot\obj\x86\Debug\MediviaLoot.Form1.resources
+C:\Users\W520\AppData\Local\Temporary Projects\MediviaLoot\obj\x86\Debug\MediviaLoot.Properties.Resources.resources
+C:\Users\W520\AppData\Local\Temporary Projects\MediviaLoot\obj\x86\Debug\MediviaLoot.Resource1.resources
+C:\Users\W520\AppData\Local\Temporary Projects\MediviaLoot\obj\x86\Debug\MediviaLoot.csproj.GenerateResource.Cache
+C:\Users\W520\AppData\Local\Temporary Projects\MediviaLoot\bin\Debug\MediviaLoot.exe
+C:\Users\W520\AppData\Local\Temporary Projects\MediviaLoot\bin\Debug\MediviaLoot.pdb
+C:\Users\W520\AppData\Local\Temporary Projects\MediviaLoot\obj\x86\Debug\MediviaLoot.exe
+C:\Users\W520\AppData\Local\Temporary Projects\MediviaLoot\obj\x86\Debug\MediviaLoot.pdb
+C:\Users\W520\AppData\Local\Temporary Projects\MediviaLoot\obj\x86\Debug\MediviaLoot.Resources.Form2.resources
+C:\Users\W520\documents\visual studio 2010\Projects\MediviaLoot\MediviaLoot\obj\x86\Debug\MediviaLoot.exe
+C:\Users\W520\documents\visual studio 2010\Projects\MediviaLoot\MediviaLoot\obj\x86\Debug\MediviaLoot.pdb
+C:\Users\W520\documents\visual studio 2010\Projects\MediviaLoot\MediviaLoot\obj\x86\Debug\MediviaLoot.Form1.resources
+C:\Users\W520\documents\visual studio 2010\Projects\MediviaLoot\MediviaLoot\obj\x86\Debug\MediviaLoot.Properties.Resources.resources
+C:\Users\W520\documents\visual studio 2010\Projects\MediviaLoot\MediviaLoot\obj\x86\Debug\MediviaLoot.Resource1.resources
+C:\Users\W520\documents\visual studio 2010\Projects\MediviaLoot\MediviaLoot\obj\x86\Debug\MediviaLoot.csproj.GenerateResource.Cache
+C:\Users\W520\documents\visual studio 2010\Projects\MediviaLoot\MediviaLoot\obj\x86\Debug\MediviaLoot.Form2.resources
+C:\Users\W520\documents\visual studio 2010\Projects\MediviaLoot\MediviaLoot\bin\Debug\MediviaLoot.exe
+C:\Users\W520\documents\visual studio 2010\Projects\MediviaLoot\MediviaLoot\bin\Debug\MediviaLoot.pdb
+C:\Users\W520\documents\visual studio 2010\Projects\MediviaLoot\MediviaLoot\obj\x86\Debug\MediviaLoot.csprojResolveAssemblyReference.cache
+C:\Users\W520\documents\visual studio 2010\Projects\MediviaLoot\MediviaLoot\bin\Debug\MediviaLoot.exe.manifest
+C:\Users\W520\documents\visual studio 2010\Projects\MediviaLoot\MediviaLoot\bin\Debug\MediviaLoot.application
+C:\Users\W520\documents\visual studio 2010\Projects\MediviaLoot\MediviaLoot\obj\x86\Debug\MediviaLoot.exe.manifest
+C:\Users\W520\documents\visual studio 2010\Projects\MediviaLoot\MediviaLoot\obj\x86\Debug\MediviaLoot.application
+C:\Users\W520\documents\visual studio 2010\Projects\MediviaLoot\MediviaLoot\obj\x86\Debug\MediviaLoot.TrustInfo.xml
